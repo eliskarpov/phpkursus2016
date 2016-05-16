@@ -6,6 +6,7 @@
 3. Millised lood olid sinu sünniaastal UK top 40-s esimesel kohal<br>
 <p>
 Vastus kuvatakse, kui valida huvipakkuva küsimuse all asuvast rippmenüüst nõutud sünniaeg.<br>
+Küsimused ja vastused on inglise keeles.<br>
 <p>
 <b>Autorist ja programmist</b><br>
 Käivitamine:<br>
